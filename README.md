@@ -1,4 +1,4 @@
-# Robotics Specialiyation - University of Pennsylvania
+# Robotics Specialization - University of Pennsylvania
 
 The following are 6 courses offered on Coursera by University of Pennsylvania. They represent concepts of robot flight and movement, how robots perceive their environment, and how they adjust their movements to avoid obstacles, navigate difficult terrains and accomplish complex tasks such as construction and disaster recovery.
 
