@@ -11,9 +11,9 @@ u = 0;
 % FILL IN YOUR CODE HERE
 
 e = s_des - s;
-Kp = 110;
-Kv = 15;
-u = params.mass * (Kp*e(1) + Kv*e(2) + params.gravity);
+kp = 110;
+kv = 15;
+u = params.mass * (kp*e(1) + v*e(2) + params.gravity);
 
 end
 
